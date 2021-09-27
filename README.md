@@ -1,2 +1,3 @@
-# bioinfo-python
-Some basic bioinformatics programs for begginers in python.
+# Basic Python programs
+
+Some basic bioinformatics programs for beginners in python.
