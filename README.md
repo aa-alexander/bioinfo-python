@@ -10,3 +10,7 @@ Some basic bioinformatics programs for beginners in python.
 
 #### Best Hit for Blast output
 **`bestHit.py`** prints the best hit/score output from the blast result. 
+
+#### FastQ files download using SRA database
+
+**`FastQDownload.py`** downloads the sra files and extract the fastq files using sra tool kit. 
